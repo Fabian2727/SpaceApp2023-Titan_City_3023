@@ -14,6 +14,7 @@ Marcelo Bustios Rodriguez - Sebastian Postigo Ávalos  -    Gabriel Valdivia Med
 Our demo showcases an explanation of the problem presented and the analysis of our target audience, including how it was validated. Additionally, it explains the solution, which is our project, and how it addresses the problem. Furthermore, samples of a Minimum Viable Product of our project have been added to provide a basic understanding of its purpose, accompanied by audiovisual demonstrations. Lastly, there is a brief introduction of our team.
 <p align="left"></p>
 <h2>Before running our game make sure to install python and pygame</h2>
+We would also like to mention that we couldnt integrate de AI because we lack the funds, however we hope that the demo at least gives an idea of what we want the finished game to look like.
 <h2>Link to our executable file (just run the exe and you will be able to play the game): https://drive.google.com/drive/folders/1dTYbJhNUR28L_gf_bFEw9wqkYXojj_mD?usp=sharing</h2>
 
 <h3 align="left">Languages and Tools:</h3>
