@@ -13,7 +13,9 @@ Marcelo Bustios Rodriguez - Sebastian Postigo Ávalos  -    Gabriel Valdivia Med
 <h3>🧐Take a look at our Demo: https://www.canva.com/design/DAFwt9Kyn-4/fss1x83EC97f7QOhIYXDDQ/edit?utm_content=DAFwt9Kyn-4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton</h3>
 Our demo showcases an explanation of the problem presented and the analysis of our target audience, including how it was validated. Additionally, it explains the solution, which is our project, and how it addresses the problem. Furthermore, samples of a Minimum Viable Product of our project have been added to provide a basic understanding of its purpose, accompanied by audiovisual demonstrations. Lastly, there is a brief introduction of our team.
 <p align="left"></p>
-
+<h2>Before running our game make sure to install python and pygame</h2>
+You can install pygame with pip by simply typing the following command in your cmd or bash
+'''pip install pygame'''
 <h2>Link to our executable file (just run the exe and you will be able to play the game): https://drive.google.com/drive/folders/1dTYbJhNUR28L_gf_bFEw9wqkYXojj_mD?usp=sharing</h2>
 
 <h3 align="left">Languages and Tools:</h3>
