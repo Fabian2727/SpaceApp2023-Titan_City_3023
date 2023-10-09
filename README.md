@@ -7,10 +7,11 @@
 
 Marcelo Bustios Rodriguez - Sebastian Postigo Ávalos  -    Gabriel Valdivia Medina </h2>  
 
-<h3>📫 Visit our team: https://www.spaceappschallenge.org/2023/find-a-team/insert-code/</h3
+<h3>📫 Visit our team: https://www.spaceappschallenge.org/2023/find-a-team/insert-code/</h3>
 
-<p align="left">
-</p>
+<p align="left"></p>
+
+<h2>In this repository, all the documentation, information, and demonstration of our project for SpaceApp Arequipa 2023 will be displayed.</h2>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
