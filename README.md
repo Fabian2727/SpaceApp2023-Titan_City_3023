@@ -14,6 +14,8 @@ Marcelo Bustios Rodriguez - Sebastian Postigo Ávalos  -    Gabriel Valdivia Med
 
 <h2>In this repository, all the documentation, information, and demonstration of our project for SpaceApp Arequipa 2023 will be displayed.</h2>
 
+<h2>Link to our executable file: https://drive.google.com/drive/folders/1dTYbJhNUR28L_gf_bFEw9wqkYXojj_mD?usp=sharing</h2>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <br />Python<br /></a>
