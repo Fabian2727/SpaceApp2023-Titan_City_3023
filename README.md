@@ -12,6 +12,7 @@ Marcelo Bustios Rodriguez - Sebastian Postigo Ávalos  -    Gabriel Valdivia Med
 <h3>📫 Visit our team: https://www.spaceappschallenge.org/2023/find-a-team/insert-code/</h3>
 <h3>🧐Take a look at our Demo: https://www.canva.com/design/DAFwt9Kyn-4/fss1x83EC97f7QOhIYXDDQ/edit?utm_content=DAFwt9Kyn-4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton</h3>
 Our demo showcases an explanation of the problem presented and the analysis of our target audience, including how it was validated. Additionally, it explains the solution, which is our project, and how it addresses the problem. Furthermore, samples of a Minimum Viable Product of our project have been added to provide a basic understanding of its purpose, accompanied by audiovisual demonstrations. Lastly, there is a brief introduction of our team.
+<h2>Considerations: The video game demo does not have integrated AI usage, as the API service requires payment. Nevertheless, the test videos demonstrate how the AI would operate within the video game.</h2>
 <p align="left"></p>
 <h2>Before running our game make sure to install python and pygame</h2>
 We would also like to mention that we couldn't integrate de AI because we lack the funds, however we hope that the demo at least gives an idea of what we want the finished game to look like.
